@@ -12,6 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=ashu2e&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashu2e&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![snake gif](https://github.com/ashu2e/ashu2e/blob/output/github-snake-dark.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
